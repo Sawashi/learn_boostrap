@@ -1,11 +1,12 @@
 body{
-    height: 100vh;
+    
     justify-content: center;
     background: rgb(105,3,101);
     background: linear-gradient(45deg, rgba(105,3,101,1) 0%, rgba(3,3,50,1) 50%, rgba(29,32,149,1) 100%);
+    font-size: 3vh;
 }
 #welcomeImage{
-    height: 30vh;
+    height: 25vh;
 }
 .firstCollect{
     height:30vh;
@@ -20,7 +21,6 @@ body{
 }
 #featuredText{
     font-weight: bold;
-    font-size: 3vh;
     color:aqua;
     font-family: 'Courier New', monospace;
 }
