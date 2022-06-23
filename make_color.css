@@ -4,6 +4,7 @@ body{
     background: rgb(105,3,101);
     background: linear-gradient(45deg, rgba(105,3,101,1) 0%, rgba(3,3,50,1) 50%, rgba(29,32,149,1) 100%);
     font-size: 3vh;
+    font-family: 'Courier New', monospace;
 }
 #welcomeImage{
     height: 25vh;
@@ -22,5 +23,12 @@ body{
 #featuredText{
     font-weight: bold;
     color:aqua;
-    font-family: 'Courier New', monospace;
+}
+#footerP{
+    font-size: 3vh;
+    color: cyan;
+    
+}
+a{
+    text-decoration: none;
 }
